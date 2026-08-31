@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / dll files (Python cache)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Thonny IDE configurations and temporary folders
+.thonny/
+.pytest_cache/
+
+# Local system configuration files
+.DS_Store
+Thumbs.db
