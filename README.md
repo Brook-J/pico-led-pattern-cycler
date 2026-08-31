@@ -61,7 +61,7 @@ Follow these steps to run the MicroPython script onto your Raspberry Pi Pico:
    * Under the *Interpreter* tab, select **MicroPython (Raspberry Pi Pico)** from the dropdown menu and click **OK**.
 4. **Load the Project:**
    * Create a new file in Thonny.
-   * Copy the MicroPython script from this repository and paste it into the empty editor window.
+   * Copy the MicroPython script from this repository ( in the `main.py` file) and paste it into the empty editor window.
 5. **Save to the Pico:**
    * Click **File > Save As...**
    * Thonny will ask where you want to save the code. Select **Raspberry Pi Pico**.
